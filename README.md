@@ -1,4 +1,4 @@
-# Fast String Matching for DNA Sequences[Theoretical Computer Science 2019]
+# Fast String Matching for DNA Sequences  [Theoretical Computer Science 2019]
 Cheol Ryu, Thierry Lecroq, and Kunsoo Park
 
 ## MAS, TMAS, QMAS
