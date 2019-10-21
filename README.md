@@ -1,8 +1,10 @@
-# MAS
-Maximal Average Shift (MAS) algorithm, Tuned Maximal Average Shift (TMAS) algorithm, q-gram Maximal Average Shift (QMAS) algorithm
-
 # Fast String Matching for DNA Sequences [Theoretical Computer Science 2019]
 Cheol Ryu, Thierry Lecroq, and Kunsoo Park
+
+## MAS, TMAS, QMAS
+Maximal Average Shift (MAS) algorithm
+Tuned Maximal Average Shift (TMAS) algorithm
+q-gram Maximal Average Shift (QMAS) algorithm
 
 ## Introduction
 In this paper we propose the Maximal Average Shift (MAS) algorithm that finds a pattern scan order that maximizes the average shift length. We also present two extensions of MAS: one improves the scan speed of MAS by using the scan result of the previous window, and the other improves the running time of MAS by using $q$-grams. These algorithms show better average performances in scan speed than previous string matching algorithms for DNA sequences.
