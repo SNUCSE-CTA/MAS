@@ -1,9 +1,11 @@
-# Fast String Matching for DNA Sequences [Theoretical Computer Science 2019]
+# Fast String Matching for DNA Sequences[Theoretical Computer Science 2019]
 Cheol Ryu, Thierry Lecroq, and Kunsoo Park
 
 ## MAS, TMAS, QMAS
 Maximal Average Shift (MAS) algorithm
+
 Tuned Maximal Average Shift (TMAS) algorithm
+
 q-gram Maximal Average Shift (QMAS) algorithm
 
 ## Introduction
@@ -12,7 +14,9 @@ In this paper we propose the Maximal Average Shift (MAS) algorithm that finds a 
 ## Source code information
 This source code is an implementation of \[1\], fast string matching algorithms for DNA Sequences.
 
-The source code is implemented based on SMART \[2\]. (SMART is available at https://github.com/smart-tool/smart)
+The source code is implemented based on SMART \[2\]. 
+
+(SMART is available at https://github.com/smart-tool/smart)
 
 ## Datasets
 Human chromosomes 20 downloaded from the 1000 Genomes Project website \[3\].
@@ -20,7 +24,9 @@ Human chromosomes 20 downloaded from the 1000 Genomes Project website \[3\].
 ## run
 
 $ ./mas (pattern) (pattern length) (text) (text length)
+
 $ ./mas GCAGAGAG 8 GCATCGCAGAGAGTATACAGTACG 24
+
 (∑ = A,C,G,T)
 
 ## references
