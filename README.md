@@ -30,10 +30,9 @@ $ ./mas GCAGAGAG 8 GCATCGCAGAGAGTATACAGTACG 24
 (∑ = A,C,G,T)
 
 ## References
-[1] C. Ryu, T. Lecroq, and K. Park, Fast String Matching for DNA Sequences, Theoretical Computer Science (2019).
+[1] C. Ryu, T. Lecroq, and K. Park, Fast String Matching for DNA Sequences, Theoretical Computer Science 812 (2020) 137-148.
 
-[2] S. Faro, T. Lecroq, S. Borzi, S. D. Mauro, A. Maggio, The string matching algorithms research tool, in: Proceedings of the Prague Stringology Conference
-2016, Prague Stringology Club, 2016, pp. 99-113.
+[2] S. Faro, T. Lecroq, S. Borzi, S. D. Mauro, A. Maggio, The string matching algorithms research tool, in: Proceedings of the Prague Stringology Conference 2016, Prague Stringology Club, 2016, pp. 99-113.
 
 [3] The 1000 Genomes Project Consortium, The 1000 Genomes Project, http://www.1000genomes.org, 2010.
 
